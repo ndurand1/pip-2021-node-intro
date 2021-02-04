@@ -1,0 +1,19 @@
+{
+  "name": "pip-2021-intro",
+  "version": "1.0.0",
+  "description": "Make it.",
+  "main": "basic.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ndurand1/pip-2021-node-intro.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ndurand1/pip-2021-node-intro/issues"
+  },
+  "homepage": "https://github.com/ndurand1/pip-2021-node-intro#readme"
+}
